@@ -1,6 +1,6 @@
 {
   "status" : "success",
-  "state" : false ,
+  "state" : true ,
   "tittle" : "Important Message!!",
   "btnText" : "Exit",
   "message" : "Our Server Usages are too high at this time , So we have to restrict our services for some time . We will get back as soon as Possible."
